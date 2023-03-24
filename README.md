@@ -1,1 +1,1 @@
-# diamonds_cost
+# Diamond_cost
